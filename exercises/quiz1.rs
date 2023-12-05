@@ -13,13 +13,10 @@
 //
 // No hints this time ;)
 
+// I AM NOT DONE
+
 // Put your function here!
-fn calculate_price_of_apples(num: i32) -> i32 {
-   if num < 41 {
-       return num * 2;
-   } 
-   return num;
-}
+// fn calculate_price_of_apples {
 
 // Don't modify this function!
 #[test]
